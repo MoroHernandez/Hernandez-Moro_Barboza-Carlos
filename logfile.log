@@ -1,0 +1,67 @@
+[2024-02-23 18:50:58] [ INFO ] [OdontologoDaoH2:89] Listado de todos los odontologos: [Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez, Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza, Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas]
+[2024-02-23 18:51:36] [ INFO ] [OdontologoDaoH2:89] Listado de todos los odontologos: [Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez, Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza, Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas]
+[2024-02-23 19:06:07] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez
+[2024-02-23 19:06:07] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza
+[2024-02-23 19:06:07] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas
+[2024-02-23 19:06:07] [ INFO ] [OdontologoDaoMemoria:30] Listando todos los odontólogos
+[2024-02-23 19:06:50] [ INFO ] [OdontologoDaoMemoria:30] Listando todos los odontólogos
+[2024-02-23 19:07:15] [ INFO ] [OdontologoDaoH2:89] Listado de todos los odontologos: [Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez, Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza, Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas]
+[2024-02-23 19:07:15] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez
+[2024-02-23 19:07:15] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza
+[2024-02-23 19:07:15] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas
+[2024-02-23 19:07:15] [ INFO ] [OdontologoDaoMemoria:30] Listando todos los odontólogos
+[2024-02-23 19:07:48] [ INFO ] [OdontologoDaoH2:89] Listado de todos los odontologos: [Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez, Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza, Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas]
+[2024-02-23 19:07:48] [ INFO ] [OdontologoDaoMemoria:30] Listando todos los odontólogos
+[2024-02-23 19:07:48] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez
+[2024-02-23 19:07:49] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza
+[2024-02-23 19:07:49] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas
+[2024-02-23 19:09:19] [ INFO ] [OdontologoDaoH2:89] Listado de todos los odontologos: [Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez, Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza, Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas]
+[2024-02-23 19:09:19] [ INFO ] [OdontologoDaoMemoria:30] Listando todos los odontólogos
+[2024-02-23 19:09:19] [ INFO ] [OdontologoDaoMemoria:32] Listado de todos los odontologos: []
+[2024-02-23 19:09:19] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez
+[2024-02-23 19:09:19] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza
+[2024-02-23 19:09:19] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas
+[2024-02-23 19:10:26] [ INFO ] [OdontologoDaoH2:89] Listado de todos los odontologos: [Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez, Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza, Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas]
+[2024-02-23 19:10:26] [ INFO ] [OdontologoDaoMemoria:30] Listado de todos los odontologos: []
+[2024-02-23 19:10:26] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez
+[2024-02-23 19:10:26] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza
+[2024-02-23 19:10:26] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas
+[2024-02-23 19:11:45] [ INFO ] [OdontologoDaoH2:89] Listado de todos los odontologos: [Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez, Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza, Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas]
+[2024-02-23 19:11:45] [ INFO ] [OdontologoDaoMemoria:44] Listado de todos los odontologos: []
+[2024-02-23 19:11:45] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez
+[2024-02-23 19:11:45] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza
+[2024-02-23 19:11:45] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas
+[2024-02-23 19:12:31] [ INFO ] [OdontologoDaoMemoria:30] Listado de todos los odontologos: 
+[2024-02-23 19:12:31] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez
+[2024-02-23 19:12:31] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza
+[2024-02-23 19:12:31] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas
+[2024-02-23 19:12:57] [ INFO ] [OdontologoDaoH2:89] Listado de todos los odontologos: [Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez, Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza, Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas]
+[2024-02-23 19:12:57] [ INFO ] [OdontologoDaoMemoria:30] Listado de todos los odontologos: 
+[2024-02-23 19:12:57] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez
+[2024-02-23 19:12:57] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza
+[2024-02-23 19:12:57] [ INFO ] [OdontologoDaoMemoria:24] Odontologo guardado: Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas
+[2024-02-23 19:13:36] [ INFO ] [OdontologoDaoH2:89] Listado de todos los odontologos: [Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez, Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza, Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas]
+[2024-02-23 19:13:36] [ INFO ] [OdontologoDaoMemoria:30] Listado de todos los odontologos: 
+[2024-02-23 19:13:36] [ INFO ] [OdontologoDaoMemoria:24] Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez
+[2024-02-23 19:13:36] [ INFO ] [OdontologoDaoMemoria:24] Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza
+[2024-02-23 19:13:36] [ INFO ] [OdontologoDaoMemoria:24] Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas
+[2024-02-23 19:16:44] [ INFO ] [OdontologoDaoH2:89] Listado de todos los odontologos: [Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez, Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza, Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas]
+[2024-02-23 19:16:44] [ INFO ] [OdontologoDaoMemoria:30] Listado de todos los odontologos: 
+[2024-02-23 19:16:44] [ INFO ] [OdontologoDaoMemoria:24] Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez
+[2024-02-23 19:16:44] [ INFO ] [OdontologoDaoMemoria:24] Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza
+[2024-02-23 19:16:44] [ INFO ] [OdontologoDaoMemoria:24] Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas
+[2024-02-23 19:18:45] [ INFO ] [OdontologoDaoH2:89] Listado de todos los odontologos: [Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez, Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza, Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas]
+[2024-02-23 19:18:45] [ INFO ] [OdontologoDaoMemoria:30] Listado de todos los odontologos: []
+[2024-02-23 19:18:45] [ INFO ] [OdontologoDaoMemoria:24] Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez
+[2024-02-23 19:18:45] [ INFO ] [OdontologoDaoMemoria:24] Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza
+[2024-02-23 19:18:45] [ INFO ] [OdontologoDaoMemoria:24] Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas
+[2024-02-23 19:20:05] [ INFO ] [OdontologoDaoH2:89] Listado de todos los odontologos: [Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez, Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza, Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas]
+[2024-02-23 19:20:05] [ INFO ] [OdontologoDaoMemoria:30] Listado de todos los odontologos: []
+[2024-02-23 19:20:05] [ INFO ] [OdontologoDaoMemoria:24] Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez
+[2024-02-23 19:20:05] [ INFO ] [OdontologoDaoMemoria:24] Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza
+[2024-02-23 19:20:05] [ INFO ] [OdontologoDaoMemoria:24] Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas
+[2024-02-23 19:20:34] [ INFO ] [OdontologoDaoH2:89] Listado de todos los odontologos: [Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez, Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza, Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas]
+[2024-02-23 19:20:34] [ INFO ] [OdontologoDaoMemoria:30] Listado de todos los odontologos: 
+[2024-02-23 19:20:34] [ INFO ] [OdontologoDaoMemoria:24] Id: 1 - Numero de matricula: 1234 - Nombre: Moro - Apellido: Hernandez
+[2024-02-23 19:20:34] [ INFO ] [OdontologoDaoMemoria:24] Id: 2 - Numero de matricula: 5678 - Nombre: Carlos - Apellido: Barboza
+[2024-02-23 19:20:34] [ INFO ] [OdontologoDaoMemoria:24] Id: 3 - Numero de matricula: 666 - Nombre: Fernando - Apellido: Palmas
